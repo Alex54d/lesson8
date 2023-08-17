@@ -279,12 +279,12 @@ body {
 
 .task3__items *:not(:last-child) {
 	margin-right: 27px;
-	vertical-align: top;
 }
 
 .task3__item {
 	display: inline-block;
 	max-width: 324px;
+	vertical-align: top;
 }
 
 .task3__item::before {
